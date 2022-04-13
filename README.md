@@ -1,5 +1,6 @@
-I’m a Frontend Developer specializing in building and occasionally designing exceptional digital experiences. Currently, I’m focused on building accessible, 
-human-centered products.
+I’m a **Frontend Developer** specializing in building and occasionally designing exceptional digital experiences. <br>
+Currently, I’m focused on building accessible, 
+**human-centered products.**
 
 ### 🚀 My skills
 
