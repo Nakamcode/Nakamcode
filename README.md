@@ -27,8 +27,5 @@ Currently, I’m focused on building accessible,
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I build things for the web 💢
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nakamcode&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nakamcode&show_icons=true&theme=dracula) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakamcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- ...
--->
