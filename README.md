@@ -27,5 +27,12 @@ Currently, I’m focused on building accessible,
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I build things for the web 💢
 
+## Stats
+[![Tope's GitHub stats](https://github-readme-stats.vercel.app/api?username=topeogunleye&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Commit Streak
+[![Tope's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=topeogunleye&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nakamcode&show_icons=true&theme=dracula) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakamcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
